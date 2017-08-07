@@ -1,0 +1,63 @@
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csprojResolveAssemblyReference.cache
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Form1.resources
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Properties.Resources.resources
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csproj.GenerateResource.Cache
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\MajnLauncher\MajnLauncher\MajnLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.exe
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.pdb
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.pdb
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csprojResolveAssemblyReference.cache
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Form1.resources
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Properties.Resources.resources
+C:\Users\roman.rusianowski\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csproj.GenerateResource.Cache
+E:\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+E:\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.exe
+E:\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.csprojResolveAssemblyReference.cache
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.Form1.resources
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.Properties.Resources.resources
+D:\MajnLauncher\MajnLauncher - release\MajnLauncher\obj\Debug\MajnLauncher.csproj.GenerateResource.Cache
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\MajnLauncher.exe
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\MajnLauncher.pdb
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\Newtonsoft.Json.dll
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\bin\Debug\Newtonsoft.Json.xml
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.csprojResolveAssemblyReference.cache
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.Form1.resources
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.Properties.Resources.resources
+D:\MajnLauncher\MajnLauncherR\MajnLauncher\obj\Debug\MajnLauncher.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe.config
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.exe
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.pdb
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.exe
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\MajnLauncher.pdb
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Form1.resources
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.Properties.Resources.resources
+C:\Users\Roman\Desktop\MajnLauncher\MajnLauncher\obj\Debug\MajnLauncher.csproj.GenerateResource.Cache
