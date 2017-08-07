@@ -1,8 +1,4 @@
 Czech Minecraft launcher. Feel free to use or modificate the souce code for your own purposes.
-Poznámky:
-- na počítači musí byt .NET 4.0+ (většina PC s OS Windows)
-- cesta nesmí obsahovat pomlčky (-)
-- Java padá při nastavení více než 1274Mb RAM
 Funkce:
 - warez (origo nedokončené)
 - stáhnout všechny Alpha verze hry (testováno v1.12.1)
