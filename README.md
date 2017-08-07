@@ -1,6 +1,4 @@
-# MajnLauncher
 Czech Minecraft launcher. Feel free to use or modificate the souce code for your own purposes.
-
 Funkce:
 - warez (origo nedokončené)
 - stáhnout všechny Alpha verze hry (testováno v1.12.1)
