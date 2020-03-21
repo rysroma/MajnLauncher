@@ -8,8 +8,7 @@ Funkce:
 - uloží nastavení launcheru
 - může načíst testovací verze hry (Snapshoty)
 - určí velikost dostupné operační paměti
-- tlačítko na smazání všech souboru Minecraftu
 - změna domovského adresáře ze základního .minecraft
-- vymazání všech stažených souboru
+- odstranění všech stažených souboru
 
 Autor: Roman Rusianowski
